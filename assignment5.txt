@@ -1,0 +1,10 @@
+n = input("Enter number ")
+while 1==1:
+     if n=='0':
+      break 
+     if n.isnumeric(): 
+      s='your number was ' + n +', and that squared is ' +str(int(n) * int(n))
+      print(s)
+     else:
+       print('try again with an actual number stupid')
+     n=input('next number ')

@@ -1,0 +1,4 @@
+list=[]
+item = input("Enter your Item to the List as num ")
+num=300
+list+=[num]

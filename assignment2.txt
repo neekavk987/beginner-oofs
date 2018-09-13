@@ -1,0 +1,4 @@
+var=7
+here=var**2
+words= 'the square of "var"+ is "here"+
+print(words)

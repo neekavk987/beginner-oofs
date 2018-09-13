@@ -1,0 +1,1 @@
+n=open("python_assignment7_data.txt","r+")
